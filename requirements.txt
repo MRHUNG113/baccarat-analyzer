@@ -1,7 +1,4 @@
-
 streamlit
-opencv-python
-pillow
+opencv-python-headless==4.8.0.76
+Pillow
 numpy
-pandas
-matplotlib
